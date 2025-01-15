@@ -1,0 +1,14 @@
+{
+  "public_key": "base64-test-key",
+  "timestamp": 1736956438,
+  "hash": "v-3798e0d33ce7d62646b664bab468cb1b998912bea5c033631ec5259d8e5184b3",
+  "in": [
+    {
+      "file": "example.sbrf",
+      "integrity": "sha256-0edaaab1b9ded6a77501e1376e2c23023b645e34862dfd931263ba980979f34e",
+      "sign": "sign-hash",
+      "address": "https://github.com/SimplyBuilder/sbrf-storage/tree/main/tests"
+    }
+  ],
+  "out": []
+}
